@@ -17,3 +17,5 @@ here they are safe and sound
     - dragon fight and elytra hunting kit
 - /trigger surface - [raw](./raw%20datapacks/surface%20command) - there is no zip
     - teleports you to the highest block at your position
+### Resourcepacks:
+- 
