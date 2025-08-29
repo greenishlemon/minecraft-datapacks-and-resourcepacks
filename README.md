@@ -15,4 +15,5 @@ here they are safe and sound
     - gives you more hearts based off of xp
 - end fight kit - [raw](./raw%20datapacks/end_fight_kit_datapack) - [zip](./zipped%20datapacks)
     - dragon fight and elytra hunting kit
-- 
+- /trigger surface - [raw](./raw%20datapacks/surface%20command) - there is no zip
+    - teleports you to the highest block at your position
