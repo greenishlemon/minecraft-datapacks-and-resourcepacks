@@ -10,4 +10,4 @@ here they are safe and sound
 ## Table of contents:
 ### Datapacks:
 - autoelytra - [raw](./raw%20datapacks/autoelytra) - there is no zip
-- 
+    - gives you an elytra and firework rocket (duration 3 for carrots5)
