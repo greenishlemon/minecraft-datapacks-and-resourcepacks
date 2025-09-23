@@ -18,6 +18,8 @@ here they are safe and sound
     - dragon fight and elytra hunting kit
 - /trigger surface - [raw code](./raw%20datapacks/surface%20command) - no zip - no modrinth
     - teleports you to the highest block at your position
+- quick teleport - [raw code](./raw%20datapacks/ccm_quick_teleport) - no zip - no modrinth
+    - teleports you to the quick teleport room on the crazy creative mode server
 ### Resourcepacks:
 - Bye Bye, Pumpkin Blur! - [raw files](./raw%20resourcepacks/bye_bye_pumpkin_blur) - [zip download](https://github.com/greenishlemon/minecraft-datapacks-and-resourcepacks/raw/refs/heads/main/zipped%20resourcepacks/bye_bye_pumpkin_blur.zip) - [**get on modrinth (recomended)**](https://modrinth.com/resourcepack/bye-bye-pumpkin-blur)
     - removes pumpkin blur and adds text "PUMPKIN" in the bottom left of the screen
