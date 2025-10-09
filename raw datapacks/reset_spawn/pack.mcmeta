@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "resets spawn point for player to be 0, -59, 0",
+    "pack_format": 61
+  }
+}
