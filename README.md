@@ -21,9 +21,9 @@ here they are safe and sound
 - surface - [raw code](./raw%20datapacks/surface%20command) - no zip - no modrinth
     - teleports you to the highest block at your position
 - quick teleport - [raw code](./raw%20datapacks/ccm_quick_teleport) - no zip - no modrinth
-    - teleports you to the quick teleport room on the crazy creative mode server
+    - teleports you to the quick teleport room on my server
 - reset spawn - [raw code](./raw%20datapacks/reset_spawn) - no zip - no modrinth
-    - gives you kits for fighting (current kits include: sword, mace, bow)
+    - resets your spawn to 0, -59, 0 (this is the spawn on my server)
 
 #### not /function:
 - fight kits - [raw code](./raw%20datapacks/fight_kits) - no zip - no modrinth
@@ -46,4 +46,4 @@ here they are safe and sound
  
 ---
 
-# :)
+:)
