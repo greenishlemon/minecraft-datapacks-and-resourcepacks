@@ -11,6 +11,12 @@ here they are safe and sound
 ---
 # Quick Links:
 
+<!--
+Template:
+- NAME - [raw code](./ LINK ) - no zip - no modrinth
+    - DESCRIPTION
+-->
+
 ## Datapacks:
 ### command based:
 #### /function commands:
