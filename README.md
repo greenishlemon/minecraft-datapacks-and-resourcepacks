@@ -34,14 +34,14 @@ Template:
 #### not /function:
 - fight kits - [raw code](./raw%20datapacks/fight_kits) - no zip - no modrinth
     - gives you kits for fighting (current kits include: sword, mace, bow)
-- no item despawn - [raw code](./raw%20datapacks/no_item_despawn) - no zip - no modrinth
-    - makes all items not despawn
-- GAL: Items - [raw code](./raw%20datapacks/gal_items) - no zip - no modrinth
-    - greenishlemon's anti-lag: gives players a warning and despawns all loose items every seven minutes
 
 ### non-command based:
 - XPHearts - [raw code](./raw%20datapacks/xp_heart) - [zip download](https://github.com/greenishlemon/minecraft-datapacks-and-resourcepacks/raw/refs/heads/main/zipped%20datapacks/xpHearts.zip) - [**get on modrinth (recomended)**](https://modrinth.com/datapack/greenishlemon-xp-hearts)
     - gives you more hearts based off of xp
+- no item despawn - [raw code](./raw%20datapacks/no_item_despawn) - no zip - no modrinth
+    - makes all items not despawn
+- GAL: Items - [raw code](./raw%20datapacks/gal_items) - no zip - no modrinth
+    - greenishlemon's anti-lag: gives players a warning and despawns all loose items every seven minutes
 
 
 ## Resourcepacks:
