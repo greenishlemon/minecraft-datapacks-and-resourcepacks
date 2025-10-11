@@ -41,7 +41,7 @@ Template:
 - no item despawn - [raw code](./raw%20datapacks/no_item_despawn) - no zip - no modrinth
     - makes all items not despawn
 - GAL: Items - [raw code](./raw%20datapacks/gal_items) - no zip - no modrinth
-    - greenishlemon's anti-lag: gives players a warning and despawns all loose items every seven minutes
+    - greenishlemon's anti-lag - items: gives players a warning and despawns all loose items every seven minutes
 
 
 ## Resourcepacks:
