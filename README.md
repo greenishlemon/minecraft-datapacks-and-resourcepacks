@@ -19,7 +19,7 @@ Template:
 
 ## Datapacks:
 ### command based:
-#### /function commands:
+#### /trigger commands:
 - autoelytra - [raw code](./raw%20datapacks/autoelytra) - no zip - no modrinth
     - gives you an elytra and firework rocket (duration 3 for carrots5 only)
 - end fight kit - [raw code](./raw%20datapacks/end_fight_kit_datapack) - [zip download](https://github.com/greenishlemon/minecraft-datapacks-and-resourcepacks/raw/refs/heads/main/zipped%20datapacks/end_fight_kit_datapack.zip) - no modrinth
@@ -33,7 +33,7 @@ Template:
 - afk - [raw code](./raw%20datapacks/greenish_afk) - no zip - no modrinth
     - sets you to AFK and back when activated (also has a reminder that you are afk)
 
-#### not /function:
+#### not /trigger:
 - fight kits - [raw code](./raw%20datapacks/fight_kits) - no zip - no modrinth
     - gives you kits for fighting (current kits include: sword, mace, bow)
 
