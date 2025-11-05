@@ -30,6 +30,8 @@ Template:
     - teleports you to the quick teleport room on my server
 - reset spawn - [raw code](./raw%20datapacks/reset_spawn) - no zip - no modrinth
     - resets your spawn to 0, -59, 0 (this is the spawn on my server)
+- afk - [raw code](./raw%20datapacks/greenish_afk) - no zip - no modrinth
+    - sets you to AFK and back when activated (also has a reminder that you are afk)
 
 #### not /function:
 - fight kits - [raw code](./raw%20datapacks/fight_kits) - no zip - no modrinth
