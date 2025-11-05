@@ -36,6 +36,8 @@ Template:
 #### not /trigger:
 - fight kits - [raw code](./raw%20datapacks/fight_kits) - no zip - no modrinth
     - gives you kits for fighting (current kits include: sword, mace, bow)
+- BO2 auto equip - [raw code](./raw%20datapacks/bo2ae) - no zip - no modrinth
+    - auto equip armor and food for Bash Out 2 by Bench118
 
 ### non-command based:
 - XPHearts - [raw code](./raw%20datapacks/xp_heart) - [zip download](https://github.com/greenishlemon/minecraft-datapacks-and-resourcepacks/raw/refs/heads/main/zipped%20datapacks/xpHearts.zip) - [**get on modrinth (recomended)**](https://modrinth.com/datapack/greenishlemon-xp-hearts)
