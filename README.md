@@ -27,9 +27,9 @@ Template:
 - surface - [raw code](./raw%20datapacks/surface%20command) - no zip - no modrinth
     - teleports you to the highest block at your position
 - quick teleport - [raw code](./raw%20datapacks/ccm_quick_teleport) - no zip - no modrinth
-    - teleports you to the quick teleport room on my server
+    - teleports you to the quick teleport room on CCM
 - reset spawn - [raw code](./raw%20datapacks/reset_spawn) - no zip - no modrinth
-    - resets your spawn to 0, -59, 0 (this is the spawn on my server)
+    - resets your spawn to 0, -59, 0 (this is spawn on CCM)
 - afk - [raw code](./raw%20datapacks/greenish_afk) - no zip - no modrinth
     - sets you to AFK and back when activated (also has a reminder that you are afk)
 
@@ -42,10 +42,8 @@ Template:
 ### non-command based:
 - XPHearts - [raw code](./raw%20datapacks/xp_heart) - [zip download](https://github.com/greenishlemon/minecraft-datapacks-and-resourcepacks/raw/refs/heads/main/zipped%20datapacks/xpHearts.zip) - [**get on modrinth (recomended)**](https://modrinth.com/datapack/greenishlemon-xp-hearts)
     - gives you more hearts based off of xp
-- no item despawn - [raw code](./raw%20datapacks/no_item_despawn) - no zip - no modrinth
-    - makes all items not despawn
-- GAL: Items - [raw code](./raw%20datapacks/gal_items) - no zip - no modrinth
-    - greenishlemon's anti-lag - items: gives players a warning and despawns all loose items every seven minutes
+- CCM's gamerule reset - [raw code](./raw%20datapacks/ccm_gamerule_reset) - no zip - no modrinth
+    - resets gamerules on CCM every 15 minutes with cancel feature (not default minecraft)
 
 
 ## Resourcepacks:
