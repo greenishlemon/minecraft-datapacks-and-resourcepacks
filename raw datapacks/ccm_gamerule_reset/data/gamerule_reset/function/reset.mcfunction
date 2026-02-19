@@ -1,0 +1,64 @@
+# reset gamerules to CCM defaults
+gamerule advance_time false
+gamerule advance_weather false
+gamerule allow_entering_nether_using_portals true
+gamerule block_drops true
+gamerule block_explosion_drop_decay true
+gamerule command_block_output false
+gamerule command_blocks_work true
+gamerule drowning_damage true
+gamerule elytra_movement_check true
+gamerule ender_pearls_vanish_on_death true
+gamerule entity_drops true
+gamerule fall_damage true
+gamerule fire_damage true
+gamerule fire_spread_radius_around_player 0
+gamerule forgive_dead_players true
+gamerule freeze_damage true
+gamerule global_sound_events true
+gamerule immediate_respawn false
+gamerule keep_inventory true
+gamerule lava_source_conversion false
+gamerule limited_crafting false
+gamerule locator_bar true
+gamerule log_admin_commands true
+gamerule max_block_modifications 32768
+gamerule max_command_forks 65536
+gamerule max_command_sequence_length 65536
+gamerule max_entity_cramming 24
+gamerule max_snow_accumulation_height 1
+gamerule mob_drops true
+gamerule mob_explosion_drop_decay true
+gamerule mob_griefing false
+gamerule natural_health_regeneration true
+gamerule player_movement_check true
+gamerule players_nether_portal_creative_delay 0
+gamerule players_nether_portal_default_delay 80
+gamerule players_sleeping_percentage 100
+gamerule projectiles_can_break_blocks true
+gamerule pvp true
+gamerule raids true
+gamerule random_tick_speed 3
+gamerule reduced_debug_info false
+gamerule respawn_radius 0
+gamerule send_command_feedback true
+gamerule show_advancement_messages false
+gamerule show_death_messages true
+gamerule spawn_mobs false
+gamerule spawn_monsters false
+gamerule spawn_patrols false
+gamerule spawn_phantoms false
+gamerule spawn_wandering_traders false
+gamerule spawn_wardens true
+gamerule spawner_blocks_work true
+gamerule spectators_generate_chunks true
+gamerule spread_vines true
+gamerule tnt_explodes false
+gamerule tnt_explosion_drop_decay true
+gamerule universal_anger false
+gamerule water_source_conversion true
+
+# tell everyone that a reset has been completed
+tellraw @a ["All gamerules have now been ",{"text":"reset","color":"green"},"."]
+# restart scripts
+function gamerule_reset:restart_scripts
