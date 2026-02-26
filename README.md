@@ -43,7 +43,7 @@ Template:
 - XPHearts - [raw code](./raw%20datapacks/xp_heart) - [zip download](https://github.com/greenishlemon/minecraft-datapacks-and-resourcepacks/raw/refs/heads/main/zipped%20datapacks/xpHearts.zip) - [**get on modrinth (recomended)**](https://modrinth.com/datapack/greenishlemon-xp-hearts)
     - gives you more hearts based off of xp
 - CCM's gamerule reset - [raw code](./raw%20datapacks/ccm_gamerule_reset) - no zip - no modrinth
-    - resets gamerules on CCM every 15 minutes with cancel feature (not default minecraft)
+    - resets gamerules on CCM every 30 minutes with cancel feature (not default minecraft)
 
 
 ## Resourcepacks:
