@@ -1,5 +1,11 @@
+# beware, things on here are probably outdated
+ive stopped putting stuff on github because im lazy and dont feel like it
+
+## anyways...
+
 # greenishlemon's minecraft stuff
 mc stuff I made
+
 
 I put them here because I keep losing them on my computer\
 here they are safe and sound
